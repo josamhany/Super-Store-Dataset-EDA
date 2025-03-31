@@ -23,6 +23,7 @@ The dataset contains 9,994 records with 21 columns, including:
 1. **Top Selling Products**:
    - The "Canon imageCLASS 2200 Advanced Copier" generated the highest sales ($61,599.82).
    - Other top products include "Fellowes PB500 Electric Punch Plastic Comb Binding Machine" and "Cisco TelePresence System EX90 Videoconferencing Unit."
+-----------------------------------------------------------------------------------------------------------------------------------------------------------     
 ![Screenshot 2025-03-31 170531](https://github.com/user-attachments/assets/7eb55d54-b299-49e6-b2f2-8c1b9a81aa1b)
 
 

@@ -69,7 +69,8 @@ The dataset contains 9,994 records with 21 columns, including:
 
 ## Author
 Josam Hany Fouad 
-[LinkedIn](https://www.linkedin.com/in/josam-hany-76b449301/)  
+[My LinkedIn Profile.](https://www.linkedin.com/in/josam-hany-76b449301/)
+[The Project Post.](https://www.linkedin.com/posts/josam-hany-76b449301_datascience-eda-python-activity-7312491519213481984-9KrL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE0hRQMBJwwXzE_2WIlbIlC2-W8nTypJdkU)  
 ## DataSet
 You can find this dataset on kaggle [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)
 ## License
